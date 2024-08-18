@@ -33,6 +33,7 @@ customer_orders_summary as (
 
 joined as (
 
+--  Please fix this below    
     select
         customers.*,
 
